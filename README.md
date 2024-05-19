@@ -1,7 +1,7 @@
 # PAINEL WEB
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/main/ubuinst.sh)
 ```
 </br>
 
@@ -12,7 +12,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/mai
 
 # SINCRONIZAR NA VPS SSH!
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/main/sincpainel.sh)
 ```
 
 ```
