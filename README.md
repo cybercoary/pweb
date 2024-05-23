@@ -6,9 +6,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/mai
 </br>
 
 # CHAVE DE INSTALA
-```
-@Danielssh
-```
+
 
 # SINCRONIZAR NA VPS SSH!
 ```
@@ -16,8 +14,5 @@ apt install wget -y; bash <(wget -qO- https://github.com/cybercoary/pweb/raw/mai
 ```
 
 ```
-@crazy_vpn
-@nandoslayer
-@swittecnologia
-@Davidsdy
+@cybercoari
 ```
